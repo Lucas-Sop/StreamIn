@@ -1,9 +1,8 @@
+La Plataforma de Streaming del Futuro 🚀
+Bienvenido a StreamIn, la revolución en el mundo del streaming. Aquí, estamos construyendo la plataforma definitiva para conectar a streamers, creadores de contenido y audiencias de una manera nunca antes vista.
 
-StreamConnect: La Plataforma de Streaming del Futuro 🚀
-Bienvenido a StreamConnect, la revolución en el mundo del streaming. Aquí, estamos construyendo la plataforma definitiva para conectar a streamers, creadores de contenido y audiencias de una manera nunca antes vista.
-
-🌟 ¿Qué es StreamConnect?
-StreamConnect es una innovadora plataforma que une a streamers y entusiastas del streaming en un ecosistema vibrante y colaborativo. Nuestro objetivo es proporcionar un espacio donde los creadores puedan crecer, colaborar y monetizar su contenido, mientras que los espectadores encuentran y se conectan con sus streamers favoritos de manera más interactiva y personalizada.
+🌟 ¿Qué es StreamIn?
+StreamIn es una innovadora plataforma que une a streamers y entusiastas del streaming en un ecosistema vibrante y colaborativo. Nuestro objetivo es proporcionar un espacio donde los creadores puedan crecer, colaborar y monetizar su contenido, mientras que los espectadores encuentran y se conectan con sus streamers favoritos de manera más interactiva y personalizada.
 
 🔧 Características Clave:
 Conexiones Significativas: Conecta con otros streamers, colaboradores y seguidores.
